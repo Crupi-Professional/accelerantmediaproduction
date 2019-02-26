@@ -1839,6 +1839,7 @@ body {
   font-size: 32px;
   border: 2px solid #4f4943;
   border-radius: 50%;
+  color: #c1c1c1;
 }
 @media (max-width: 991px) {
   .cid-rj8xPPLjyc .img-text {
