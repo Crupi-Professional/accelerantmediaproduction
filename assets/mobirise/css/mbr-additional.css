@@ -168,8 +168,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #ff3366 !important;
-  border-color: #ff3366 !important;
+  background-color: #ff1414 !important;
+  border-color: #ff1414 !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -177,14 +177,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #e50039 !important;
-  border-color: #e50039 !important;
+  background-color: #c60000 !important;
+  border-color: #c60000 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #e50039 !important;
-  border-color: #e50039 !important;
+  background-color: #c60000 !important;
+  border-color: #c60000 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -332,22 +332,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #cc0033;
-  color: #cc0033;
+  border-color: #ad0000;
+  color: #ad0000;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #ff3366;
-  border-color: #ff3366;
+  background-color: #ff1414;
+  border-color: #ff1414;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #ff3366 !important;
-  border-color: #ff3366 !important;
+  background-color: #ff1414 !important;
+  border-color: #ff1414 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -467,7 +467,7 @@ body {
   color: #149dcc !important;
 }
 .text-secondary {
-  color: #ff3366 !important;
+  color: #ff1414 !important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -493,7 +493,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #cc0033 !important;
+  color: #ad0000 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -1384,12 +1384,12 @@ body {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #2e2e2e;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #2e2e2e;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -1473,7 +1473,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #333333;
+  background: #2e2e2e;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1770,18 +1770,18 @@ body {
 .cid-rj8NVgK0Zf {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #4f4943;
 }
 .cid-rj8NVgK0Zf .mbr-text {
   color: #767676;
 }
 .cid-rj8NVgK0Zf .mbr-text p {
-  background: #ffffff;
+  background: #4f4943;
 }
 .cid-rj8zGCW3lZ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #4f4943;
 }
 .cid-rj8zGCW3lZ h3 {
   text-align: center;
@@ -1794,7 +1794,7 @@ body {
   color: #767676;
 }
 .cid-rj8zGCW3lZ .panel-item {
-  background: #ffffff;
+  background: #4f4943;
 }
 .cid-rj8zGCW3lZ .card {
   word-wrap: break-word;
@@ -1806,7 +1806,7 @@ body {
 .cid-rj8xPPLjyc {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #4f4943;
 }
 .cid-rj8xPPLjyc .mbr-section-subtitle {
   color: #767676;
@@ -1825,7 +1825,7 @@ body {
   width: 64px;
   height: 64px;
   font-size: 32px;
-  border: 2px solid #efefef;
+  border: 2px solid #4f4943;
   border-radius: 50%;
 }
 @media (max-width: 991px) {
@@ -1834,15 +1834,6 @@ body {
     height: 48px;
     font-size: 24px;
   }
-}
-@media (min-width: 992px) {
-  .cid-rj8xPPLjyc .cards-block {
-    border-top: 2px solid #efefef;
-  }
-}
-.cid-rj8xPPLjyc .cards-block .card {
-  border-bottom: 2px solid #efefef;
-  border-radius: 0;
 }
 .cid-rj8xPPLjyc .cards-container {
   display: flex;
@@ -1882,7 +1873,7 @@ body {
 .cid-rj8Q8pimHu {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #4f4943;
 }
 .cid-rj8Q8pimHu .mbr-text {
   color: #767676;
